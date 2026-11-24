@@ -1,0 +1,7 @@
+[general]
+name=Earth Globe Sphere Diagram
+qgisMinimumVersion=3.0
+description=3D Earth Globe Sphere Diagram
+version=1.0
+author=GIS
+email=a@b.com
