@@ -1,7 +1,10 @@
 [general]
-name=Earth Globe Sphere Diagram
+name=exclusive2geography-lab
 qgisMinimumVersion=3.0
 description=3D Earth Globe Sphere Diagram
 version=1.0
-author=GIS
+author=DR Samanta
 email=a@b.com
+tracker=https://github.comা/exclusive2geography-lab/earth_sphere_diagram/issues
+repository=https://github.comা/exclusive2geography-lab/earth_sphere_diagram
+homepage=https://github.comা/exclusive2geography-lab/earth_sphere_diagram
